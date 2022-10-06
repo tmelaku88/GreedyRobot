@@ -1,0 +1,47 @@
+2021-11-23T02:44:21.067Z [debug] [main] Safe constructing new CMakeTools instance
+2021-11-23T02:44:21.068Z [debug] [variant] Constructing VariantManager
+2021-11-23T02:44:21.069Z [debug] [main] Constructing new CMakeTools instance
+2021-11-23T02:44:21.069Z [debug] [main] Starting CMakeTools second-phase init
+2021-11-23T02:44:21.572Z [info] [variant] Loaded new set of variants
+2021-11-23T02:44:21.573Z [debug] [main] CMakeTools instance initialization complete.
+2021-11-23T02:44:24.504Z [debug] [kit] Reading kits file /home/NETID/tmelaku5/.local/share/CMakeTools/cmake-tools-kits.json
+2021-11-23T02:44:28.014Z [info] [kit] Successfully loaded 5 kits from /home/NETID/tmelaku5/.local/share/CMakeTools/cmake-tools-kits.json
+2021-11-23T02:44:28.290Z [debug] [kit] Not reading non-existent kits file: /home/NETID/tmelaku5/.vscode/cmake-kits.json
+2021-11-23T02:58:06.900Z [debug] [main] Not starting CMake driver: no kits defined
+2021-11-23T06:29:24.775Z [debug] [extension] Deactivate CMakeTools
+2021-11-23T06:29:24.782Z [fatal] [rollbar] Unhandled exception: Unhandled Promise rejection: Post-folder-open Canceled: Canceled {"folder":{"uri":{"$mid":1,"fsPath":"/home/NETID/tmelaku5","external":"file:///home/NETID/tmelaku5","path":"/home/NETID/tmelaku5","scheme":"file"},"name":"tmelaku5","index":0}}
+2021-11-23T06:29:24.785Z [fatal] [rollbar] Unhandled exception: Unhandled Promise rejection: Pruning kit Canceled: Canceled {"kit":{"name":"GCC 7.5.0","compilers":{"C":"/usr/local/bin/gcc-7.5.0","CXX":"/usr/local/bin/g++-7.5.0"}}}
+2021-11-23T06:29:24.785Z [fatal] [rollbar] Unhandled exception: Unhandled Promise rejection: Pruning kit Canceled: Canceled {"kit":{"name":"GCC 9.2.0","compilers":{"C":"/usr/local/bin/gcc","CXX":"/usr/local/bin/g++"}}}
+2021-11-23T06:29:24.785Z [fatal] [rollbar] Unhandled exception: Unhandled Promise rejection: Pruning kit Canceled: Canceled {"kit":{"name":"GCC for x86_64-redhat-linux 4.8.5","compilers":{"C":"/usr/bin/x86_64-redhat-linux-gcc","CXX":"/usr/bin/x86_64-redhat-linux-g++"}}}
+3:47.118Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:34:13.094Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:48:47.797Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:49:11.063Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:50:14.351Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:50:55.187Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:51:21.584Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:52:54.389Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:53:30.844Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:54:57.284Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:55:19.398Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:55:47.478Z [debug] [main] Not starting CMake driver: no kits defined
+2021-10-31T06:55:53.593Z [debug] [main] Not starting CMake driver: no kits defined
+led Promise rejection: Pruning kit Canceled: Canceled {"kit":{"name":"GCC 7.5.0","compilers":{"C":"/usr/local/bin/gcc-7.5.0","CXX":"/usr/local/bin/g++-7.5.0"}}}
+2021-10-07T00:09:38.584Z [fatal] [rollbar] Unhandled exception: Unhandled Promise rejection: Pruning kit Canceled: Canceled {"kit":{"name":"GCC 9.2.0","compilers":{"C":"/usr/local/bin/gcc","CXX":"/usr/local/bin/g++"}}}
+2021-10-07T00:09:38.585Z [fatal] [rollbar] Unhandled exception: Unhandled Promise rejection: Pruning kit Canceled: Canceled {"kit":{"name":"GCC for x86_64-redhat-linux 4.8.5","compilers":{"C":"/usr/bin/x86_64-redhat-linux-gcc","CXX":"/usr/bin/x86_64-redhat-linux-g++"}}}
+:10:51.373Z [debug] [kit] Found 0 kits in directory C:\Program Files\LLVM\bin
+2021-04-01T06:10:51.375Z [debug] [kit] Detected GCC compiler: /usr/local/bin/gcc
+2021-04-01T06:10:51.376Z [debug] [kit] Detected GCC compiler: /usr/bin/x86_64-redhat-linux-gcc
+2021-04-01T06:10:51.377Z [debug] [kit] Detected GCC compiler: /usr/bin/gcc
+2021-04-01T06:10:51.378Z [debug] [kit] Detected Clang compiler: /usr/bin/clang
+2021-04-01T06:10:51.378Z [debug] [kit] Detected GCC compiler: /usr/local/bin/gcc-7.5.0
+2021-04-01T06:10:51.379Z [debug] [kit] Found 3 kits in directory /usr/bin
+2021-04-01T06:10:51.379Z [debug] [kit] Found 2 kits in directory /usr/local/bin
+2021-04-01T06:10:51.380Z [info] [kit] Found Kit: GCC 9.2.0
+2021-04-01T06:10:51.380Z [info] [kit] Found Kit: GCC 7.5.0
+2021-04-01T06:10:51.380Z [info] [kit] Found Kit: Clang 3.4.2
+2021-04-01T06:10:51.380Z [info] [kit] Found Kit: GCC 4.8.5
+2021-04-01T06:10:51.381Z [info] [kit] Found Kit: GCC for x86_64-redhat-linux 4.8.5
+2021-04-01T06:10:51.381Z [debug] [kitsController] Saving kits to /home/NETID/tmelaku5/.local/share/CMakeTools/cmake-tools-kits.json
+2021-04-01T06:10:51.381Z [debug] [kitsController] Saving new kits to /home/NETID/tmelaku5/.local/share/CMakeTools/cmake-tools-kits.json
+2021-04-01T06:10:57.862Z [debug] [extension] Deactivate CMakeTools
